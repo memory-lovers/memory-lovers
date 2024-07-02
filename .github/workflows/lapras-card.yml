@@ -13,6 +13,7 @@ jobs:
       - uses: kawamataryo/lapras-card-readme@main
         with:
           SHARE_ID: "DBIAPAY"
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # 以下オプション
           # https://lapras-card-generator.vercel.app でカスタマイズしたデザインを設定可能
           # ICON_FIRST: "#030E21"
