@@ -12,6 +12,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=memory-lovers&margin-w=5&rank=-C,-B,-?)](https://github.com/memory-lovers/)
 
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
 
 <!--
 **memory-lovers/memory-lovers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
