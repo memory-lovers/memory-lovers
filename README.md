@@ -16,6 +16,10 @@
 <a href="https://lapras.com/public/DBIAPAY" target="_blank" rel="noopener noreferrer"><img alt="DBIAPAYのLAPRASでのスコアは次の通りです: エンジニアリング: 4.09 / 5.0, ビジネス: 3.36 / 5.0, インフルエンス: 3.81 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=4.09&b=3.36&i=3.81&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
 <!--END_SECTION:lapras-card-->
 
+
+![git-wrapped.com](https://github.com/user-attachments/assets/0c5495c4-ae75-41f6-9f26-d7659e44f957)  
+<https://git-wrapped.com/profiles/memory-lovers>
+
 <!--
 **memory-lovers/memory-lovers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
