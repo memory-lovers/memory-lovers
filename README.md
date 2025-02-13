@@ -13,7 +13,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=memory-lovers&margin-w=5&rank=-C,-B,-?)](https://github.com/memory-lovers/)
 
 <!--START_SECTION:lapras-card-->
-<a href="https://lapras.com/public/DBIAPAY" target="_blank" rel="noopener noreferrer"><img alt="DBIAPAYのLAPRASでのスコアは次の通りです: エンジニアリング: 4.09 / 5.0, ビジネス: 3.36 / 5.0, インフルエンス: 3.81 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=4.09&b=3.36&i=3.81&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+<a href="https://lapras.com/public/DBIAPAY" target="_blank" rel="noopener noreferrer"><img alt="DBIAPAYのLAPRASでのスコアは次の通りです: エンジニアリング: 4.29 / 5.0, ビジネス: 3.36 / 5.0, インフルエンス: 3.83 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=4.29&b=3.36&i=3.83&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
 <!--END_SECTION:lapras-card-->
 
 
